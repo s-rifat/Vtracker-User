@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1082602936649",
+    "firebase_url": "https://vtracker2-cca25.firebaseio.com",
+    "project_id": "vtracker2-cca25",
+    "storage_bucket": "vtracker2-cca25.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1082602936649:android:f03ccee1f0c6a13707e298",
+        "android_client_info": {
+          "package_name": "com.example.vtracker2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1082602936649-b89o9me5hovv88q4mrbmggk3rik7c0uf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.vtracker2",
+            "certificate_hash": "a6dc60d9b9a3b51cc9117786ac2d6c94ae156828"
+          }
+        },
+        {
+          "client_id": "1082602936649-7v8j6ad32rtknomrrofok3ci5p3ev5bd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANIIIUMF7NEfBxo7auK9dOuW7tmy4rQzQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1082602936649-7v8j6ad32rtknomrrofok3ci5p3ev5bd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
