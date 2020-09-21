@@ -3,7 +3,6 @@
 # Installation Guide for **VTracker**
 
 
-
 This document gives the instructions to install and run **VTracker** android application for all systems (Smartphone, Tablet and Android Studio IDE) . 
 
 
@@ -99,6 +98,9 @@ _alternate download_ : [Google Drive Link](https://drive.google.com/file/d/1mxz1
 
 ![emulator](readme_img/a5.png)
 
-<br><br>
+<br><br><br>
 
 
+# **VTracker [Driver]** App
+---
+:white_check_mark: [Driver App Github Link](https://github.com/s-rifat/Vtracker-Driver)
