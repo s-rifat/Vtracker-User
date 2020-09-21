@@ -185,8 +185,8 @@ public class TrackingActivity extends FragmentActivity implements OnMapReadyCall
         NotificationChannel notificationChannel=new NotificationChannel (CHANNEL_ID,"name",NotificationManager.IMPORTANCE_LOW);
       //  PendingIntent pendingIntent=PendingIntent.getActivity(getApplicationContext(),1,intent,0);
         Notification notification=new Notification.Builder(getApplicationContext(),CHANNEL_ID)
-                .setContentText(s+ " Almost there!")
-                .setContentTitle("Hey Get yourself ready!")
+                .setContentText(s+ " almost there!")
+                .setContentTitle("Hey get yourself ready!")
               //  .setContentIntent(pendingIntent)
              //   .addAction(android.R.drawable.sym_action_chat,"OK",pendingIntent)
                 .setChannelId(CHANNEL_ID)

@@ -368,7 +368,7 @@ public class AllPeopleActivity extends AppCompatActivity implements IFirebaseLoa
                                    if(Common.VEHICLE_LIST)
                                    {
                                         acceptList.child(model.getUid()).setValue(model);
-                                       Toast.makeText(AllPeopleActivity.this, model.getBusName() + " is Added to your bus and friend list", Toast.LENGTH_LONG).show();
+                                       Toast.makeText(AllPeopleActivity.this, model.getBusName() + " is added to your bus and friend list", Toast.LENGTH_LONG).show();
 
                                        // acceptList2.child(Common.loggeduser.getUid()).setValue(Common.loggeduser);
                                     }
